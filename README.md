@@ -13,3 +13,5 @@ My ubuntu configuration files for when reinstalling ubuntu
 ~/ubuntusetup.sh
 
 ~/.config/user-dirs.dirs
+
+
