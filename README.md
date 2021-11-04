@@ -6,7 +6,7 @@ My ubuntu configuration files for when reinstalling ubuntu
 
 ~/.bashrc
 
-~/.emacs
+~/.emacs(rename init.el .emacs)
 
 /etc/bluetooth/main.conf
 
