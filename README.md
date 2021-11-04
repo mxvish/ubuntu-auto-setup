@@ -4,14 +4,12 @@ My ubuntu configuration files for when reinstalling ubuntu
 
 - locations in ubuntu
 
-~/.bashrc
+~/.bashrc(rename bashrc .bashrc)
 
 ~/.emacs(rename init.el .emacs)
 
 /etc/bluetooth/main.conf
 
-~/ubuntusetup.sh
-
 ~/.config/user-dirs.dirs
 
-~/first
+others locate in home directory
