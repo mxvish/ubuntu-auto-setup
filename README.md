@@ -3,6 +3,7 @@
 My ubuntu configuration files for when reinstalling ubuntu
 
 - locations in ubuntu
+
 ~/.bashrc
 
 ~/.emacs
