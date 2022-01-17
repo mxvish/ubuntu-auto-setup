@@ -2,6 +2,11 @@
 
 My ubuntu configuration files for when reinstalling ubuntu
 
+## usage
+<pre>
+sh ubuntusetup.sh
+</pre>
+
 - locations in ubuntu
 
 ~/.bashrc(rename bashrc .bashrc)
