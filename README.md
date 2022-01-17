@@ -7,7 +7,7 @@ My ubuntu configuration files for when reinstalling ubuntu
 sh ubuntusetup.sh
 </pre>
 
-- locations in ubuntu
+## locations in ubuntu
 
 ~/.bashrc(rename bashrc .bashrc)
 
