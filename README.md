@@ -1,4 +1,4 @@
-# ubuntu_cheatsheet
+# ubuntu_auto_setup
 
 My ubuntu configuration files for when reinstalling ubuntu
 
