@@ -2,9 +2,11 @@
 
 My ubuntu configuration files for when reinstalling ubuntu
 
-## usage
+## installation & usage
 <pre>
-sh ubuntusetup.sh
+git clone https://github.com/kenteroshima/ubuntu_auto_setup.git
+mv ubuntu_auto_setup/ubuntusetup.sh ~/
+sudo sh ubuntusetup.sh
 </pre>
 
 ## locations in ubuntu
