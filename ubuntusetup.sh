@@ -102,30 +102,6 @@ desk changer
 		add folder ./pictures/wallpaper
 	daemon 30 min interval
 
-thunderbird
-	univ mail settings
-					incoming				outcoming
-		protocol	IMAP					SMTP
-		server		outlook.office365.com	smtp.office365.com
-		port 		993						587
-		ssl			SSL/TLS	`				STARTTLS
-
-	theme
-		Tools > add-ons
-		install "dark reader"
-
-	gmail
-		File > New > Existing Mail Account
-		enter account info
-		protocol=IMAP
-	
-	appearance
-		show nothing in inbox
-		apply columns to folders and children in all accounts
-	
-	edit > preferences > general
-		uncheck thunderbird start page
-
 printer
 	Ctrl+P on brave browser
 	Destination=see more
@@ -139,13 +115,6 @@ univ wifi eduroam
 	No CA certificate is required
 	静大ID@shizuoka.ac.jp
 	静大ID password
-
-slack
-	preferences
-		themes -> dark
-		advanced -> uncheck Leave app running ~
-
-discord
 
 zoom
 	settings
