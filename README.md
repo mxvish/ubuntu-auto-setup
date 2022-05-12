@@ -4,8 +4,8 @@ My ubuntu configuration files for when reinstalling ubuntu
 
 ## installation & usage
 <pre>
-git clone https://github.com/mxvish/ubuntu_auto_setup.git
-mv ubuntu_auto_setup/* ~/
+git clone https://github.com/mxvish/ubuntu-auto-setup.git
+mv ubuntu-auto-setup/* ~/
 sudo sh ubuntusetup.sh
 </pre>
 
